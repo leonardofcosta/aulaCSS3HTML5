@@ -1,6 +1,6 @@
 :root {
     --vermelho: #E50914;
-    --preto: #252525;
+    --preto: #1f1e1e;
 }
 
 * {
@@ -114,5 +114,9 @@ main .filme-principal .container {
 }
 
 .carrossel-filmes {
+    margin: 10px;
+}
+
+.carrossel-filmes .titulo {
     margin: 10px;
 }
